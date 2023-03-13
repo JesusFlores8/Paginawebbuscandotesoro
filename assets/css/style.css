@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #6bbbe0;
   text-decoration: none;
 }
 
@@ -115,7 +115,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  background: rgba(47, 70, 109, 0.9);
 }
 
 #header .logo {
