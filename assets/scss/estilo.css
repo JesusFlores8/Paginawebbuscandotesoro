@@ -1,3 +1,19 @@
+body {
+  background-color: darkgray;
+}
 
+h1 {
+  color: blue;
+} 
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red;
+  }
+}
+@media (min-width: 450px) and (max-width: 500px) {
+  h1 {
+    color: red;
+  }
+}
 
 /*# sourceMappingURL=estilo.css.map */
